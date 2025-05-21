@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/Claudia-hub69/SAUDE-MENTAL.git
+git add .
+git commit -m "Primeiro commit do projeto Saúde Mental"
+git branch -M main
+git push -u origin main
